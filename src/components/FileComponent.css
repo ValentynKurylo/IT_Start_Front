@@ -1,0 +1,13 @@
+.boxUser{
+    display: flex;
+    margin: 10px;
+}
+button{
+    margin: 5px;
+    font-size: 15px;
+    font-family: Georgia;
+}
+div{
+    font-size: 15px;
+    font-family: Georgia;
+}
